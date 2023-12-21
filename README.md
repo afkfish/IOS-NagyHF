@@ -2,8 +2,8 @@
 ## IOS alapú szoftverfejlesztés
 ### 2023.10.25.
 ### CinemaDB
-### Kis Benedek Márton - (JOYAXJ)
-### school@afkfish.com
+### ------------------
+### ------------------
 
 ## Bemutatás
 
